@@ -23,4 +23,4 @@ Construir a landing page do site Fylo com layout de duas colunas o mais parecido
   <li>Nível: Junior</li>
 </ul>
 
-#### Projeto ativo: <a href="">Profile Card Component</a>
+#### Projeto ativo: <a href="">Fylo Landing Page</a>
