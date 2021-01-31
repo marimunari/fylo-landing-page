@@ -512,10 +512,3 @@ p {
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
-
-@media screen and (prefers-color-scheme: dark) {
-  body {
-    background-color: #010101; // 🌑
-    color: #f0ece2;
-  }
-}
