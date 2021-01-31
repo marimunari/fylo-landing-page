@@ -23,4 +23,4 @@ Construir a landing page do site Fylo com layout de duas colunas o mais parecido
   <li>Nível: Junior</li>
 </ul>
 
-#### Projeto ativo: <a href="">Fylo Landing Page</a>
+#### Projeto ativo: <a href="https://fylo-landing-page-with-two-column-layout-master.marimunari.vercel.app/">Fylo Landing Page</a>
